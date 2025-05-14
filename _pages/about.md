@@ -57,7 +57,7 @@ I am particularly interested in developing intelligent learning systems that can
 
 # 💥 Projects
 
-- 2024.08 - current : Research on reducing subject dependency through domain generalization and enhancing fine-grained details in EEG-to-image generation using diffusion models
+- 2024.08 - current (with ETRI) : Research on reducing subject dependency through domain generalization and enhancing fine-grained details in EEG-to-image generation using diffusion models
 
 - 2024.04 - 2024.10 : Enhancing One-Class Anomaly Detection Robustness through Reverse Knowledge Distillation with Skip Connections [[code]](https://github.com/taekyungss/SK-RD4AD)
 
