@@ -28,14 +28,13 @@ I am particularly interested in developing intelligent learning systems that can
 
 # 📝 Publications 
 
-- [Risk Factor Detection and Path Prediction-Based Methodology for Industrial Site Hazard Forecasting](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11804534)
+- Skip-Connected Reverse Distillation for Robust One-Class Anomaly Detection
 
-    Han Sangwon, **Kim Taekyung**, Han Jongwon, Ji Seungbin, *Lee Jongtae
+    Eunju Park, **Taekyung Kim**, Minju Kim, Hojun Lee, *Gil-Jun Lee
     
-    2024 Spring Joint Conference of KORMS and KIIE, Yeosu, Korea – Poster
+    CVPR 2025 Workshop [VAND 3.0]
 
-    [[paper]](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11804534) [[code]](https://github.com/taekyungss/flowchain-code-trajectory-prediction)
-
+    [paper] [[code]](https://github.com/taekyungss/SK-RD4AD)
 
 - [Enhancing Visual Question Answering Performance through Question-Aware Prompt and Multilayer Co-Attention](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12036380&nodeId=NODE12036380&mobileYN=N&medaTypeCode=185005&isPDFSizeAllowed=true&locale=ko&foreignIpYn=N&articleTitle=%EB%8B%A4%EC%B8%B5+Co-Attention%EA%B3%BC+Question-aware+prompt%EB%A5%BC+%ED%86%B5%ED%95%9C+Knowledge-based+Visual+Question+Answering&articleTitleEn=Enhancing+Knowledge-based+Visual+Question+Answering+Performance+through+Multilayer+Co-Attention+and+Question-Aware+Prompt&voisId=VOIS00762356&voisName=2024%EB%85%84%EB%8F%84+%EB%8C%80%ED%95%9C%EC%A0%84%EC%9E%90%EA%B3%B5%ED%95%99%ED%9A%8C+%EC%B6%94%EA%B3%84%ED%95%99%EC%88%A0%EB%8C%80%ED%9A%8C+%EB%85%BC%EB%AC%B8%EC%A7%91&voisCnt=370&language=ko_KR&hasTopBanner=true)
 
@@ -45,14 +44,14 @@ I am particularly interested in developing intelligent learning systems that can
 
     [[paper]](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12036380&nodeId=NODE12036380&mobileYN=N&medaTypeCode=185005&isPDFSizeAllowed=true&locale=ko&foreignIpYn=N&articleTitle=%EB%8B%A4%EC%B8%B5+Co-Attention%EA%B3%BC+Question-aware+prompt%EB%A5%BC+%ED%86%B5%ED%95%9C+Knowledge-based+Visual+Question+Answering&articleTitleEn=Enhancing+Knowledge-based+Visual+Question+Answering+Performance+through+Multilayer+Co-Attention+and+Question-Aware+Prompt&voisId=VOIS00762356&voisName=2024%EB%85%84%EB%8F%84+%EB%8C%80%ED%95%9C%EC%A0%84%EC%9E%90%EA%B3%B5%ED%95%99%ED%9A%8C+%EC%B6%94%EA%B3%84%ED%95%99%EC%88%A0%EB%8C%80%ED%9A%8C+%EB%85%BC%EB%AC%B8%EC%A7%91&voisCnt=370&language=ko_KR&hasTopBanner=true)[[code]](https://github.com/taekyungss/Enhancing-KB-VQA)
 
+- [Risk Factor Detection and Path Prediction-Based Methodology for Industrial Site Hazard Forecasting](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11804534)
 
-- Skip-Connected Reverse Distillation for Robust One-Class Anomaly Detection
-
-    Eunju Park, **Taekyung Kim**, Minju Kim, Hojun Lee, *Gil-Jun Lee
+    Han Sangwon, **Kim Taekyung**, Han Jongwon, Ji Seungbin, *Lee Jongtae
     
-    CVPR 2025 Workshop [VAND 3.0]
+    2024 Spring Joint Conference of KORMS and KIIE, Yeosu, Korea – Poster
 
-    [paper] [[code]](https://github.com/taekyungss/SK-RD4AD)
+    [[paper]](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11804534) [[code]](https://github.com/taekyungss/flowchain-code-trajectory-prediction)
+
 
 
 
