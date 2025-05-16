@@ -76,19 +76,19 @@ I am particularly interested in developing intelligent learning systems that can
 # 🎖 Honors and Awards
 
 
-- *2024.10* , **Silver Award**, "Optimization of Signal Recovery Cycle in Emergency Vehicle Priority Signal System for Minimizing Traffic Congestion"
+- *2024.10* , <span style="color:navy">**Silver Award**</span>, "Optimization of Signal Recovery Cycle in Emergency Vehicle Priority Signal System for Minimizing Traffic Congestion"
     
     *The 20th Korea University Student "Industrial Engineering" Project Competition*
 
-- *2023.12* , **Excellence Award**, "Consultation system scenario design and service implementation using AI voice bot"
+- *2023.12* ,  <span style="color:navy">**Excellence Award**</span>, "Consultation system scenario design and service implementation using AI voice bot"
 
     *Dongguk University Winter ICIP Capstone Design Competition*
 
-- *2023.02* , **Participation Award**, "Data Analysis of Telephone Financial Fraud Status"
+- *2023.02* ,  <span style="color:navy">**Participation Award**</span>, "Data Analysis of Telephone Financial Fraud Status"
 
     *Dongguk X Naver Connect Foundation Data Science Course*
 
-- *2021.12* , **Excellence Award**, "Art Museum Maintenance System Using Arduino"
+- *2021.12* ,  <span style="color:navy">**Excellence Award**</span>, "Art Museum Maintenance System Using Arduino"
 
     *Dongguk University Adventure Design Competition*
 
