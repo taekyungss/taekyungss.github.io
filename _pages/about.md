@@ -34,7 +34,7 @@ I am particularly interested in developing intelligent learning systems that can
     
     CVPR 2025 Workshop [VAND 3.0]
 
-    [paper] [[code]](https://github.com/taekyungss/SK-RD4AD)
+    [[paper]](https://drive.google.com/file/d/1BffOdKe6L4qQSddE879zoROZ4EGBerho/view?usp=sharing) [[code]](https://github.com/taekyungss/SK-RD4AD)
 
 - [Enhancing Visual Question Answering Performance through Question-Aware Prompt and Multilayer Co-Attention](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12036380&nodeId=NODE12036380&mobileYN=N&medaTypeCode=185005&isPDFSizeAllowed=true&locale=ko&foreignIpYn=N&articleTitle=%EB%8B%A4%EC%B8%B5+Co-Attention%EA%B3%BC+Question-aware+prompt%EB%A5%BC+%ED%86%B5%ED%95%9C+Knowledge-based+Visual+Question+Answering&articleTitleEn=Enhancing+Knowledge-based+Visual+Question+Answering+Performance+through+Multilayer+Co-Attention+and+Question-Aware+Prompt&voisId=VOIS00762356&voisName=2024%EB%85%84%EB%8F%84+%EB%8C%80%ED%95%9C%EC%A0%84%EC%9E%90%EA%B3%B5%ED%95%99%ED%9A%8C+%EC%B6%94%EA%B3%84%ED%95%99%EC%88%A0%EB%8C%80%ED%9A%8C+%EB%85%BC%EB%AC%B8%EC%A7%91&voisCnt=370&language=ko_KR&hasTopBanner=true)
 
