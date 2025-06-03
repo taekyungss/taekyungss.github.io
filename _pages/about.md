@@ -34,7 +34,7 @@ I am particularly interested in developing intelligent learning systems that can
 
     Eunju Park, **Taekyung Kim**, Minju Kim, Hojun Lee, *Gil-Jun Lee
     
-    CVPR 2025 Workshop [VAND 3.0]
+    Accepted, Proceedings of CVPR 2025 Workshop [VAND 3.0]
 
     [[paper]](https://drive.google.com/file/d/1BffOdKe6L4qQSddE879zoROZ4EGBerho/view?usp=sharing) [[code]](https://github.com/taekyungss/SK-RD4AD) [[poster]](https://drive.google.com/file/d/1cz3kX4IE-Tta9znFheEUL9pEIXpqFqtm/view?usp=sharing)
 
