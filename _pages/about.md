@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 Hello, I'm Taekyung Kim.
-My research interests lie in <strong>Multimodal Learning, Domain Generalization, Anomaly Detection and Generative Model.</strong>
+My research interests lie in <strong>Anomaly Detection, Domain Generalization, Multimodal Learning, and Generative Model.</strong>
 
 
 I am particularly interested in developing intelligent learning systems that can handle diverse domains and modalities, with the goal of designing robust models applicable to real-world problems.
